@@ -1,7 +1,7 @@
 # face-detector-
 Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images.
 
-To watch the video first you need to download first.
+
 
 
 https://github.com/manish1710-007/face-detector-/blob/24b803f102a9b2650047c0b93da2ad2f8e29543a/Screenshot%20(344).png (Screenshot of the projects's code)
@@ -34,7 +34,9 @@ Knowledge mining - The capability to extract information from large volumes of o
 project url: https://github.com/manish1710-007/face-detector-.git
 
 project video url: https://github.com/manish1710-007/face-detector-/blob/12c4046ab70a6ac30565ab58d631c19ac99386dc/face%20detection.mp4
-(note: to watch the video u need to download the video).
+(note: to watch the video u need to download the video).  or you can watch on this below link
+
+https://www.canva.com/design/DAE-skKMfBY/CNbzQdl2j0SrGd4PqUlh2Q/watch?utm_content=DAE-skKMfBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
