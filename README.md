@@ -3,11 +3,17 @@ Face detection is a computer technology being used in a variety of applications 
 
 To watch the video first you need to download first.
 
-I have used Azure AI Fundamentals for this projects.
 
 https://github.com/manish1710-007/face-detector-/blob/24b803f102a9b2650047c0b93da2ad2f8e29543a/Screenshot%20(344).png (Screenshot of the projects's code)
 
 https://github.com/manish1710-007/face-detector-/blob/097248befcd2b1b1c23bb82eb71cbdd7e5627d42/haruna.jpeg (output of the code)
+
+
+
+
+I have used Azure AI Fundamentals for this projects.
+
+With AI, we can build solutions that seemed like science fiction a short time ago; enabling incredible advances in health care, financial management, environmental protection, and other areas to make a better world for everyone.
 
 
 Introduction to AI
@@ -22,3 +28,6 @@ Anomaly detection - The capability to automatically detect errors or unusual act
 Computer vision - The capability of software to interpret the world visually through cameras, video, and images.
 Natural language processing - The capability for a computer to interpret written or spoken language, and respond in kind.
 Knowledge mining - The capability to extract information from large volumes of often unstructured data to create a searchable knowledge store.
+
+
+
