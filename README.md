@@ -5,6 +5,9 @@ To watch the video first you need to download first.
 
 I have used Azure AI Fundamentals for this projects.
 
+Screenshot (344).png(project's code screenshot)
+
+
 Introduction to AI
 
 AI enables us to build amazing software that can improve health care, enable people to overcome physical disadvantages, empower smart infrastructure, create incredible entertainment experiences, and even save the planet!.
