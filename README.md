@@ -31,3 +31,7 @@ Knowledge mining - The capability to extract information from large volumes of o
 
 
 
+project url: https://github.com/manish1710-007/face-detector-.git
+
+
+
