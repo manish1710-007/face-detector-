@@ -6,6 +6,7 @@ To watch the video first you need to download first.
 I have used Azure AI Fundamentals for this projects.
 
 https://github.com/manish1710-007/face-detector-/blob/24b803f102a9b2650047c0b93da2ad2f8e29543a/Screenshot%20(344).png (Screenshot of the projects's code)
+
 https://github.com/manish1710-007/face-detector-/blob/097248befcd2b1b1c23bb82eb71cbdd7e5627d42/haruna.jpeg (output of the code)
 
 
